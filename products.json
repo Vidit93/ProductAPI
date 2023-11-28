@@ -1,0 +1,82 @@
+[
+    {
+        "p_name": "product1",
+        "p_rate": "234",
+        "p_brand": "popo",
+        "p_des": "he EcoComfort Bamboo Bed Sheets set includes a fitted sheet, flat sheet, and two pillowcases. They’re available in a variety of sizes (Twin, Full, Queen, King) and stylish colors (White, Grey, Navy Blue) to match any bedroom decor.",
+        "p_qty": "23",
+        "c_name": "Ram Rastogi",
+        "c_number": "1111111111",
+        "e_mail": "ram123@gmail.com",
+        "G_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ],
+        "C_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ]
+    },
+    {
+        "p_name": "product2",
+        "p_rate": "234",
+        "p_brand": "misho",
+        "p_des": "Our sheets are designed to keep you cool in the summer and warm in the winter, thanks to the thermo-regulating properties of bamboo. Plus, they’re eco-friendly and sustainable, so you can sleep soundly knowing you’re doing your part for the environment.",
+        "p_qty": "23",
+        "c_name": "Sham Sharma",
+        "c_number": "1234567891",
+        "e_mail": "shamsharma@gmail.com",
+        "G_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ],
+        "C_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ]
+    },
+    {
+        "p_name": "product3",
+        "p_rate": "234",
+        "p_brand": "pisu",
+        "p_des": "Experience the ultimate in comfort and luxury with our EcoComfort Bamboo Bed Sheets. Made from 100% organic bamboo, these sheets are incredibly soft, breathable, and hypoallergenic, perfect for those with sensitive skin or allergies.",
+        "p_qty": "23",
+        "c_name": "Hari Manohar",
+        "c_number": "2223334441",
+        "e_mail": "manoharji@gmail.com",
+        "G_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ],
+        "C_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ]
+    },
+    {
+        "p_name": "product4",
+        "p_rate": "234",
+        "p_brand": "hulu",
+        "p_des": " Upgrade your sleep experience with EcoComfort Bamboo Bed Sheets because a good nights sleep is a luxury everyone deserves.",
+        "p_qty": "23",
+        "c_name": "Manoj mahar",
+        "c_number": "9950111216",
+        "e_mail": "manojmanoj@gmail.com",
+        "G_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ],
+        "C_img": [
+            "https://source.unsplash.com/1024x768/?nature",
+            "https://source.unsplash.com/1024x768/?water",
+            "https://source.unsplash.com/1024x768/?tree"
+        ]
+    }
+]
